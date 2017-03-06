@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	// lietuviškos raidės konsolėje
-	setlocale(LC_ALL, "Lithuania");
+	setlocale(LC_ALL, "Lithuanian");
 
 	int a, b;
 	cout << "įveskite skaičių a: ";
